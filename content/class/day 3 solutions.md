@@ -1,0 +1,33 @@
+1. ![[Pasted image 20250125145343.png]]
+2. 
+3. yes, no yes
+4. ![[Pasted image 20250125145653.png]]
+5. ![[Pasted image 20250125145738.png]]
+6. ![[Pasted image 20250125145811.png]]
+7. ![[Pasted image 20250125145913.png]]
+8. ![[Pasted image 20250125145950.png]]
+9. ![[Pasted image 20250125150045.png]]
+10. ![[Pasted image 20250125150123.png]]
+11. ![[Pasted image 20250125150216.png]]
+12. ![[Pasted image 20250125150335.png]]![[]]
+13. ![[Pasted image 20250125151743.png]]
+14. ![[Pasted image 20250125151822.png]]
+15. ![[Pasted image 20250125151954.png]]
+16. ![[Pasted image 20250125152026.png]]
+17. ![[Pasted image 20250125152049.png]]
+18. ![[Pasted image 20250125152125.png]]
+19. ![[Pasted image 20250125152207.png]]
+20. ![[Pasted image 20250125152321.png]]
+21. ![[Pasted image 20250125152356.png]]
+22. ![[Pasted image 20250125152423.png]]
+23. ![[Pasted image 20250125152556.png]]
+24. ![[Pasted image 20250125152636.png]]
+25. ![[Pasted image 20250125152819.png]]
+26. ![[Pasted image 20250125152907.png]]
+
+27. ![[Pasted image 20250125152947.png]]
+28. ![[Pasted image 20250125153117.png]]
+29. ![[Pasted image 20250125153237.png]]
+30. ![[Pasted image 20250125153310.png]]
+31. k=2
+32. a=5

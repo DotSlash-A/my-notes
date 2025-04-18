@@ -1,0 +1,2 @@
+Rooted in ancient texts such as the _Chandra Kala Nadi_ and _Bhrigu Samhita_, this technique involves analyzing the dynamic movement of planetary energies through the zodiac over time, correlating these shifts with specific developmental phases in an individual’s life. Unlike Western astrological progressions, which rely on symbolic time equivalences (e.g., a day-for-a-year), Vedic progression integrates the dasha system—planetary periods governed by lunar nakshatras—with advanced chart rotation methods and house activation principles
+

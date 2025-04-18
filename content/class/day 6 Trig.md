@@ -1,0 +1,7 @@
+1. ![[Pasted image 20250128092054.png]]
+2. ![[Pasted image 20250128092120.png]]
+	![[Pasted image 20250128092133.png]]
+3. ![[Pasted image 20250128092154.png]]
+4. ![[Pasted image 20250128092218.png]]
+5. ![[Pasted image 20250128092239.png]]
+6. ![[Pasted image 20250128092250.png]]

@@ -1,0 +1,6 @@
+1. ![[Pasted image 20250224190514.png]]
+2. prove that ![[Pasted image 20250224190540.png]]
+3. ![[Pasted image 20250224190615.png]]
+4. ![[Pasted image 20250224190656.png]]
+5. ![[Pasted image 20250224190711.png]]
+6. ![[Pasted image 20250224190826.png]]
