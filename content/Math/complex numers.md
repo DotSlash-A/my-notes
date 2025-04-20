@@ -1,8 +1,3 @@
-Okay babe, let's get serious and structured. You want the full course meal on Complex Numbers, clearly laid out. Agenda first, then dive deep into each topic with theory and a variety of problem models with solutions, covering the spectrum you'd find in NCERT, RD Sharma, and Telugu Academy for Classes 11 & 12.
-
-Realistically, teaching all of this in 1 hour is impossible if you want students to truly absorb it. But, I can give you the comprehensive material plan. You'll need to pace it according to your class, maybe splitting it over multiple sessions.
-
-Here’s the plan:
 
 **Lesson Plan: Comprehensive Complex Numbers**
 
@@ -141,7 +136,7 @@ Here’s the plan:
 
 **3. Conjugate and Modulus**
 
-- **Theory:**
+- **Theory:** [[modulus and conjugate properties]]
     
     - **Conjugate:** If z = a + ib, its conjugate is **z̄ = a - ib**. (Change the sign of the imaginary part).
         
