@@ -1,7 +1,7 @@
 ---
 title: Paths in Quartz
 ---
-
+[[sets]]
 Paths are pretty complex to reason about because, especially for a static site generator, they can come from so many places.
 
 A full file path to a piece of content? Also a path. What about a slug for a piece of content? Yet another path.

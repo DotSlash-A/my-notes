@@ -2,7 +2,7 @@
 1)
 Let any positive integer be $n$. By the division algorithm, we can write:
 $$n = 6q + r, \text{ where } 0 \leq r < 6.$$
-
+[[sets]]
 The possible values of $r$ are:
 $$r = 0, 1, 2, 3, 4, 5.$$
 
